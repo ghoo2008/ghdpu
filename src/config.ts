@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'GHDPU Blog',
+  subtitle: 'ghdpu.vercel.app',
   lang: 'en',
   themeHue: 250,
   banner: {
@@ -23,8 +23,8 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',
+      name: 'GhDPU',
+      url: 'https://ghdpu.vercel.app',
       external: true,
     },
   ],
@@ -32,8 +32,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'GhDPU',
+  bio: 'This is my blog.',
   links: [
     {
       name: 'Twitter',
@@ -48,7 +48,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://ghdpu.vercel.app',
     },
   ],
 }
