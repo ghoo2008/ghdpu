@@ -1,7 +1,7 @@
 ---
 title: Test Git Push in VS Code 
 published: 2024-04-28
-description: 
+description: Test to push update in VS Code. 
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: false
