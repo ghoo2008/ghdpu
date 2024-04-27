@@ -1,9 +1,9 @@
 ---
-title: Simple Guides for Fuwari
+title: Simple Guides for Blog 
 published: 2023-09-01
 description: "How to use this blog template."
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
+tags: ["Blogging", "Customization"]
 category: Guides
 draft: false
 ---

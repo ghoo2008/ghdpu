@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [GHDPU](https://ghdpu.vercel.app).
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
